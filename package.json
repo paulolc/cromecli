@@ -1,0 +1,15 @@
+{
+  "name": "cromecli",
+  "version": "1.0.0",
+  "description": "cli tool to control a running chrome browser",
+  "license": "ISC",
+  "author": "paulolc",
+  "type": "module",
+  "main": "cromecli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer-core": "^24.11.2"
+  }
+}
